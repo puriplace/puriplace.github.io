@@ -1,0 +1,33 @@
+@font-face {
+  font-family: lato;
+  src: url(fonts/Lato-Light.ttf);
+}
+@font-face {
+  font-family: latobold;
+  src: url(fonts/Lato-Bold.ttf);
+}
+p b {
+  font-family: latobold;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 0px;
+    font-family: lato;
+  }
+
+img {
+  display: block;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 70%;
+  width: auto;
+  border-radius: 20px;
+  }
+
+body {
+  background-color: #FFFCF0;
+}
